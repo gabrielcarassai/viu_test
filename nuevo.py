@@ -7,4 +7,8 @@ d = {
 e = "nuevo"
 f = "piezas"
 g = "repuestos"
+h = "almacen"
+i = "nave industrial"
+j = "local comercial"
+
 print(a + b) 
