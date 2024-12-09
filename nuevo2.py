@@ -1,3 +1,6 @@
 import mi_math
 
-sumar(10, 25)
+varnueva = "nuevo master"
+var_nueva2 = "nuevo master2"
+
+mi_math.suma(10, 25)
