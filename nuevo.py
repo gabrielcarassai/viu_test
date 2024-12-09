@@ -10,5 +10,6 @@ g = "repuestos"
 h = "almacen"
 i = "nave industrial"
 j = "local comercial"
-
+k = "nuevo master"
 print(e + f + g) 
+
