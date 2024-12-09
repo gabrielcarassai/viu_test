@@ -11,5 +11,7 @@ h = "almacen"
 i = "nave industrial"
 j = "local comercial"
 k = "nuevo master"
+i = "nuevo master2"
+
 print(e + f + g) 
 
