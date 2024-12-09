@@ -11,4 +11,4 @@ h = "almacen"
 i = "nave industrial"
 j = "local comercial"
 
-print(a + b) 
+print(e + f + g + h) 
