@@ -4,4 +4,7 @@ c = ['nuevo', 'antiguo']
 d = {
  'edad' : 20
 }
+e = "nuevo"
+f = "piezas"
+g = "repuestos"
 print(a + b) 
