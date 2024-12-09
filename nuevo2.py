@@ -1,3 +1,3 @@
 import mi_math
 
-sumar(10, 25)
+suma(10, 25)
