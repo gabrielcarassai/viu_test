@@ -10,3 +10,6 @@ var_x = "variable 2345.e"
 
 #vars para github
 github = 3
+
+#estoy en main
+main = 1
