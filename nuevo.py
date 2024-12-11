@@ -17,3 +17,5 @@ l = ['vacio']
 
 print(e + f + g) 
 
+#en principal
+var_x = "variable 2345.e"

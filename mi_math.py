@@ -13,3 +13,5 @@ def divide(a,b):
 def poder(a, b):
     return a ** b
 
+#en principal
+var_x = "variable 2345.e"
