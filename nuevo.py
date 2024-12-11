@@ -14,6 +14,6 @@ k = "nuevo master"
 i = "nuevo master2"
 k = ""
 l = ['vacio']
-
+#secundario fgi
 print(e + f + g) 
 
