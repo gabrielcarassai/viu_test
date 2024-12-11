@@ -12,6 +12,8 @@ i = "nave industrial"
 j = "local comercial"
 k = "nuevo master"
 i = "nuevo master2"
+k = ""
+l = ['vacio']
 
 print(e + f + g) 
 
