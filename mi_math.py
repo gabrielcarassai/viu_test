@@ -14,3 +14,6 @@ def poder(a, b):
     return a ** b
 
 #secundario abcd
+
+def secundaria(x):
+    print(f"secundaria llego a {x}")
