@@ -19,3 +19,6 @@ print(e + f + g)
 
 #en principal
 var_x = "variable 2345.e"
+
+#vars para github
+github = 1

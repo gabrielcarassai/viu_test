@@ -7,3 +7,6 @@ mi_math.suma(10, 25)
 
 #en principal
 var_x = "variable 2345.e"
+
+#vars para github
+github = 3

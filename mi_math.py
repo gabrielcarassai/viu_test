@@ -15,3 +15,6 @@ def poder(a, b):
 
 #en principal
 var_x = "variable 2345.e"
+
+#vars para github
+github = 2
