@@ -21,3 +21,4 @@ github = 2
 
 #estoy en main
 main = 1
+estoymain = 2
