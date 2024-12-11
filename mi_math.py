@@ -13,7 +13,5 @@ def divide(a,b):
 def poder(a, b):
     return a ** b
 
-#secundario abcd
-
-def secundaria(x):
-    print(f"secundaria llego a {x}")
+#en principal
+var_x = "variable 2345.e"
