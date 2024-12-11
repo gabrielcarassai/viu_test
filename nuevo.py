@@ -15,6 +15,10 @@ i = "nuevo master2"
 k = ""
 l = ['vacio']
 
+#secundario fgi
+def funcion_secundaria(x,z):
+    return x**z
+
 print(e + f + g) 
 
 #en principal
